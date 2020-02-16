@@ -1,0 +1,49 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: 'Roboto', sans-serif;
+  background: url(images/techevent.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1 {
+  font-size: 2.9rem;
+  color: #ffffff;
+}
+
+.spacer {
+  height: 30rem;
+}
+
+hr {
+  border-color: #ee4c30;
+  border-width: 3px;
+  max-width: 100px;;
+}
+
+.btn {
+  font-weight: 700;
+  border-radius: 300px;
+  text-transform: uppercase;
+}
+
+.btn-primary {
+background-color: #ee4c30;
+border-color: #ee4c30;
+}
+
+.btn-primary:hover {
+background-color: #f52703;
+border-color: #f52703;
+box-shadow:0 0 0 4px#f52703;
+}
+
+.btn-large {
+  font-size: 1.5rem;
+  padding: 1rem 2rem;
+
+}
