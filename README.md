@@ -1,2 +1,2 @@
-# Landing-Page
-Landing Page
+# Landing Page
+Small Landing Page project.
